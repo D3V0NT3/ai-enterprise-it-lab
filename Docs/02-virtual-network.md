@@ -32,7 +32,7 @@ The existing host-only network was retained for the earlier lab.
 
 ![VirtualBox NAT Network settings](images/02-nat-network.png)
 
-## Verification Status
+## Verification Statusdocs: document shared NAT network configuration
 
 The network name, subnet and disabled DHCP/IPv6 settings were
 checked in VirtualBox Network Manager.
@@ -51,5 +51,4 @@ Virtual networking, IPv4 subnet configuration, DHCP planning
 and technical documentation.
 
 ## Next Step
-
 Create a fresh Windows Server VM and attach it to Northstar-Corp-v2.
